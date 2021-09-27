@@ -21,4 +21,8 @@ The analysis was based off data from the Excel file called "Kickstarter_Analysis
 * A unique issue was the Mac has the Excel cells smaller than on Windows, making it harder to keep track of what row and/or column I was at
 * When it came to tables & charts a challenge was making sure the data was being properly represented & modifying the data fit the chart and/or graph as needed
 
-
+* ![](Theater_Outcomes_vs_Launch.png)
+* * Based off the data, we can conclude that the months of April-June are the best time to host a "Theater/Play". This needs to be taken into account with fundraising, which means fundraising for a "Theater/Play" that will occur in the months of April-June will likely be "successful" as the most people will come to view it.
+* * September-December are the worst time to host a "Theater/Play". We can see the data showing us that that's when "Theaters/Plays" not only are more likely to "fail" but even the amounts of "successes" are lower.
+* * Both of these finding need to be heavily considered for future fundraising.
+* 
