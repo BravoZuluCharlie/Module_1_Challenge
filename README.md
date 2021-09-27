@@ -20,4 +20,5 @@ The analysis was based off data from the Excel file called "Kickstarter_Analysis
 * * Sometimes it became more time consuming than originally thought
 * A unique issue was the Mac has the Excel cells smaller than on Windows, making it harder to keep track of what row and/or column I was at
 * When it came to tables & charts a challenge was making sure the data was being properly represented & modifying the data fit the chart and/or graph as needed
-* 
+
+
